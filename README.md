@@ -166,12 +166,6 @@ uv sync
 7. **Actual vs Counterfactual**: Side-by-side model predictions
 8. **Cumulative Effect**: Total prevented cases accumulation
 
-## References
-
-- Bernal, J. L., Cummins, S., & Gasparrini, A. (2017). Interrupted time series regression for health policy evaluation. *Statistical Methods in Medical Research*, 26(6), 2515-2528.
-- McElreath, R. (2020). *Statistical Rethinking*, 2nd Edition. Chapman and Hall/CRC.
-- Gelman, A., et al. (2013). *Bayesian Data Analysis*, 3rd Edition. Chapman and Hall/CRC.
-
 ## Notes
 
 - The analysis uses **Bayesian ITS** rather than frequentist approaches for full posterior inference and uncertainty quantification
